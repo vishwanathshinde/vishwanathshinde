@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently pursuing **TYBCA** from SPPU University <br>
-      In Abasaheb Garware College, Pune
+  🏫 In Abasaheb Garware College, Pune
 
 - 👨‍💻 All of my projects are available at [vishwanathshinde.netlify.app](vishwanathshinde.netlify.app)
 
