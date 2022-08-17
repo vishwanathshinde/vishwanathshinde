@@ -10,7 +10,7 @@
 - 🌱 I’m currently pursuing **TYBCA** from SPPU University <br>
   🏫 In Abasaheb Garware College, Pune
 
-- 👨‍💻 All of my projects are available at [vishwanathshinde.netlify.app](vishwanathshinde.netlify.app)
+- 👨‍💻 All of my projects are available at <!--[vishwanathshinde.netlify.app](vishwanathshinde.netlify.app)-->
 
 - 📫 How to reach me **vishwanathshinde988@gmail.com**
 
